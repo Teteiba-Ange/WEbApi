@@ -1,7 +1,7 @@
 from pyowm.owm import OWM
 
 location = input("PLease enter yor location :")
-API_KEY="f9da3e8cca6bf4066ae78b6aabd7f513"
+
 owm = OWM(API_KEY)
 weather_manager = owm.weather_manager()
 
