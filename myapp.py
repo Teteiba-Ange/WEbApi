@@ -17,8 +17,8 @@ def getAllItem():
     return Items
 @app.route('/last')
 def getLastItem():
-    last_Item = list(Items.items())[-1]
-    return last_Item
+    
+    return Items[-1]
 @app.route('/First')
 def getFirst():
     # first_Item = list(Items.items())[0]
