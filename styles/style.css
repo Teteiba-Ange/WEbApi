@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #beb6b6;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    font-size: 2em;
+}
+
+.funeral-details p {
+    font-size: 1.2em;
+    background-image:url('./asset/IMG-20250918-WA0017.jpg') ;
+}
+
+footer {
+    text-align:center;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+    bottom: 0;
+    width: 100%;
+}
