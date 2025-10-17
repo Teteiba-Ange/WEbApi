@@ -29,6 +29,9 @@ h1, h2 {
     object-fit:cover;
     border-radius:10px; */
 }
+.location-map{
+    position:absolute;
+}
 
 footer {
     text-align:center;
